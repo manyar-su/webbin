@@ -1,0 +1,33 @@
+export const categories = [
+  { id: "cafe-resto", label: "Cafe & Resto", icon: "Coffee", gradient: "from-amber-500 to-orange-600" },
+  { id: "warung", label: "Warung", icon: "Store", gradient: "from-red-500 to-rose-600" },
+  { id: "laundry", label: "Laundry", icon: "Droplets", gradient: "from-sky-500 to-blue-600" },
+  { id: "barbershop", label: "Barbershop", icon: "Scissors", gradient: "from-slate-500 to-slate-700" },
+  { id: "fashion", label: "Fashion", icon: "Shirt", gradient: "from-pink-500 to-fuchsia-600" },
+  { id: "villa", label: "Villa", icon: "Home", gradient: "from-emerald-500 to-teal-600" },
+  { id: "travel", label: "Travel", icon: "Plane", gradient: "from-cyan-500 to-blue-600" },
+  { id: "company", label: "Company Profile", icon: "Building2", gradient: "from-indigo-500 to-violet-600" },
+  { id: "rental", label: "Rental Mobil", icon: "Car", gradient: "from-orange-500 to-red-600" },
+  { id: "peternakan", label: "Peternakan", icon: "Sprout", gradient: "from-green-500 to-emerald-600" },
+  { id: "marketplace", label: "Marketplace", icon: "ShoppingCart", gradient: "from-purple-500 to-indigo-600" },
+  { id: "landing", label: "Landing Page", icon: "FileCode", gradient: "from-blue-500 to-cyan-600" },
+];
+
+export const projects = [
+  { id: 1, name: "Kopi Senja", categoryId: "cafe-resto", tech: ["Next.js", "Tailwind", "Sanity CMS"], description: "Website cafe modern dengan menu digital, galeri suasana, dan sistem reservasi online.", liveDemoUrl: "https://demo.webin.id/kopi-senja" },
+  { id: 2, name: "Sate Ratu", categoryId: "cafe-resto", tech: ["React", "Strapi", "Payment Gateway"], description: "Resto online ordering dengan integrasi payment gateway dan WhatsApp konfirmasi otomatis.", liveDemoUrl: "https://demo.webin.id/sate-ratu" },
+  { id: 3, name: "Warung Bu Tini", categoryId: "warung", tech: ["React", "WhatsApp API"], description: "Warung online dengan pesanan langsung ke WhatsApp dan menu harian yang mudah diperbarui.", liveDemoUrl: "https://demo.webin.id/warung-bu-tini" },
+  { id: 4, name: "Kilat Laundry", categoryId: "laundry", tech: ["Next.js", "Dashboard", "Order Tracking"], description: "Sistem laundry terintegrasi dengan tracking status cucian, pickup, dan notifikasi otomatis.", liveDemoUrl: "https://demo.webin.id/kilat-laundry" },
+  { id: 5, name: "Sharp Cut Barbershop", categoryId: "barbershop", tech: ["React", "Booking System"], description: "Booking online barbershop dengan pilih barber, jadwal, dan reminder WhatsApp otomatis.", liveDemoUrl: "https://demo.webin.id/sharp-cut" },
+  { id: 6, name: "Nordic Apparel", categoryId: "fashion", tech: ["Next.js", "E-commerce", "Stripe"], description: "Toko fashion online dengan katalog produk, keranjang, checkout, dan manajemen stok.", liveDemoUrl: "https://demo.webin.id/nordic-apparel", githubUrl: "https://github.com/webin-id/nordic-apparel" },
+  { id: 7, name: "Villa Sawah Indah", categoryId: "villa", tech: ["React", "Booking", "Gallery"], description: "Website villa dengan galeri foto 360, booking kalender, dan integrasi Google Maps.", liveDemoUrl: "https://demo.webin.id/villa-sawah" },
+  { id: 8, name: "Jelajah Nusantara", categoryId: "travel", tech: ["Next.js", "Search", "Payment Gateway"], description: "Platform travel dengan pencarian paket wisata, booking online, dan pembayaran terintegrasi.", liveDemoUrl: "https://demo.webin.id/jelajah-nusantara" },
+  { id: 9, name: "PT Maju Bersama", categoryId: "company", tech: ["React", "CMS", "SEO"], description: "Company profile profesional dengan blog, struktur organisasi, dan SEO schema lengkap.", liveDemoUrl: "https://demo.webin.id/maju-bersama" },
+  { id: 10, name: "DriveNow Rental", categoryId: "rental", tech: ["Next.js", "Booking", "Fleet Management"], description: "Sistem rental mobil dengan ketersediaan real-time, booking, dan manajemen armada.", liveDemoUrl: "https://demo.webin.id/drivenow" },
+  { id: 11, name: "Sapi Sehat Farm", categoryId: "peternakan", tech: ["React", "Catalog", "WhatsApp"], description: "Website peternakan dengan katalog produk hewani, edukasi, dan pemesanan via WhatsApp.", liveDemoUrl: "https://demo.webin.id/sapi-sehat" },
+  { id: 12, name: "Pasar Digital", categoryId: "marketplace", tech: ["Next.js", "Multi-vendor", "Payment Gateway"], description: "Marketplace multi-vendor dengan dashboard seller, komisi, voucher, dan affiliate system.", liveDemoUrl: "https://demo.webin.id/pasar-digital" },
+  { id: 13, name: "Program Diet Sehat", categoryId: "landing", tech: ["React", "Tailwind", "WhatsApp"], description: "Landing page program diet dengan formulir pendaftaran dan CTA WhatsApp yang tinggi konversi.", liveDemoUrl: "https://demo.webin.id/diet-sehat" },
+  { id: 14, name: "Kursus Coding Online", categoryId: "landing", tech: ["Next.js", "Tailwind"], description: "Landing page kursus online dengan pricing, testimoni, dan formulir pendaftaran siswa.", liveDemoUrl: "https://demo.webin.id/kursus-coding" },
+  { id: 15, name: "Roti Bakar Kita", categoryId: "cafe-resto", tech: ["Next.js", "WhatsApp", "SEO"], description: "Website kedai roti bakar dengan menu, galeri, dan pesanan langsung via WhatsApp.", liveDemoUrl: "https://demo.webin.id/roti-bakar" },
+  { id: 16, name: "Glow Beauty Clinic", categoryId: "fashion", tech: ["Next.js", "Booking", "CMS"], description: "Klinik kecantikan dengan booking treatment, katalog produk, dan blog artikel kecantikan.", liveDemoUrl: "https://demo.webin.id/glow-beauty" },
+];

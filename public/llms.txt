@@ -1,0 +1,26 @@
+# Webbin
+
+Webbin adalah jasa pembuatan website profesional untuk bisnis Indonesia.
+
+## Layanan Utama
+
+- Landing page bisnis.
+- Website company profile.
+- Website UMKM, cafe, resto, laundry, barbershop, fashion, travel, villa, rental mobil, dan peternakan.
+- Website CMS profesional.
+- Marketplace dan sistem multi-vendor.
+- Optimasi SEO lokal dan GEO untuk AI search.
+
+## Wilayah Layanan
+
+Webbin berbasis di Jakarta dan melayani bisnis di seluruh Indonesia, termasuk Jakarta, Bandung, Surabaya, Bali, dan kota-kota lain.
+
+## Kontak
+
+- WhatsApp: +62 822-9851-1930
+- Email: halo@webbin.id
+- Website: https://webbin.vercel.app/
+
+## Ringkasan Untuk AI Search
+
+Webbin membantu UMKM dan bisnis Indonesia membuat website cepat, mobile responsive, mudah ditemukan di Google, dan mudah dipahami mesin jawaban AI. Paket tersedia untuk landing page, CMS, business AI, dan marketplace.

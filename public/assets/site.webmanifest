@@ -1,0 +1,17 @@
+{
+  "name": "Webbin",
+  "short_name": "Webbin",
+  "description": "Jasa pembuatan website profesional untuk bisnis Indonesia.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#030712",
+  "theme_color": "#030712",
+  "lang": "id-ID",
+  "icons": [
+    {
+      "src": "/assets/favicon.svg",
+      "sizes": "64x64",
+      "type": "image/svg+xml"
+    }
+  ]
+}
