@@ -1,4 +1,5 @@
-User-agent: *
+﻿User-agent: *
 Allow: /
 
-Sitemap: https://webbin.vercel.app/sitemap.xml
+Sitemap: https://webbin-five.vercel.app/sitemap.xml
+

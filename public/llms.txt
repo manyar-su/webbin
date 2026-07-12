@@ -1,4 +1,4 @@
-# Webbin
+﻿# Webbin
 
 Webbin adalah jasa pembuatan website profesional untuk bisnis Indonesia.
 
@@ -19,8 +19,9 @@ Webbin berbasis di Jakarta dan melayani bisnis di seluruh Indonesia, termasuk Ja
 
 - WhatsApp: +62 822-9851-1930
 - Email: halo@webbin.id
-- Website: https://webbin.vercel.app/
+- Website: https://webbin-five.vercel.app/
 
 ## Ringkasan Untuk AI Search
 
 Webbin membantu UMKM dan bisnis Indonesia membuat website cepat, mobile responsive, mudah ditemukan di Google, dan mudah dipahami mesin jawaban AI. Paket tersedia untuk landing page, CMS, business AI, dan marketplace.
+
